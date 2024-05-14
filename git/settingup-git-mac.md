@@ -99,13 +99,22 @@
 ### GitHub Repositories
 
 1. **Clone a Repository in VS Code:**
+    (From Remote to Local)
    - Open VS Code and click on the Source Control icon in the Activity Bar.
    - Click on "Clone Repository".
-   - Enter the repository URL and choose a directory to clone the repository into.
+   - Enter the repository URL or Login in Github and select repository
+   - Choose a directory to clone the repository into.
 
 2. **Create a New Repository:**
+    (From Local to Remote )
    - Initialize a new Git repository by clicking on the Source Control icon and then "Initialize Repository".
-   - Follow GitHub's guide to create a new repository and push your local repository to GitHub.
+   - Login in Github
+   - Rename (optional)(default: same name as the folder)
+     - When Name already exist indicated what you can do is:
+       *Rename and continue* or *Clone the repo somewhere in different directory and overwrite the code with your new code*
+   - Publish in Public or Private
+       *Public*: Can be viewed by anybody
+       *Private*: Only you can view
 
 ### GitHub Issues
 
