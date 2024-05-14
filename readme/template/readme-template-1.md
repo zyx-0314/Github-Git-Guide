@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- Logo or Image -->
-    <img src="../../docs/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="" alt="" width="130" height="100">
   </a>
 
   <h3 align="center">Title</h3>
