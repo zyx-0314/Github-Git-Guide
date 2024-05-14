@@ -6,10 +6,6 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-    <img src="../docs/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
-
   <h3 align="center">Git Installation and Configuration on Windows</h3>
 </div>
 <div align="center">
@@ -17,8 +13,6 @@
 </div>
 
 <br />
-
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/Github-Git-Guide)
 
 ---
 
