@@ -43,6 +43,9 @@
         <li>
           <a href="#github-pull-requests">GitHub Pull Requests</a>
         </li>
+        <li>
+          <a href="#what-if">What if</a>
+        </li>
       </ol>
     </li>
   </ol>
