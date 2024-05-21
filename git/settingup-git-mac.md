@@ -36,6 +36,14 @@
         </li>
         <li>
           <a href="#github-repositories">GitHub Repositories</a>
+          <ol>
+            <li>
+              <a href="#clone-a-repository-in-vs-code">Clone a Repository in VS Code</a>
+            </li>
+            <li>
+              <a href="#create-a-new-repository">Create a New Repository</a>
+            </li>
+          </ol>
         </li>
         <li>
           <a href="#github-issues">GitHub Issues</a>
@@ -95,24 +103,25 @@
 
 ### GitHub Repositories
 
-1. **Clone a Repository in VS Code:**
-    (From Remote to Local)
-   - Open VS Code and click on the Source Control icon in the Activity Bar.
-   - Click on "Clone Repository".
-          - What if no `Clone Repository`? Go [Here](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/problems.md#git-are-not-yet-installed).
-   - Enter the repository URL or Login in Github and select repository
-   - Choose a directory to clone the repository into.
+#### Clone a Repository in VS Code
+From Remote(Online) to Local(Your PC)
+1. Open VS Code and click on the 'Source Control icon' in the Activity Bar.
+2. Click on "Clone Repository".
+  - What if no `Clone Repository`? Go [Here](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/problems.md#git-are-not-yet-installed).
+3. Enter the repository URL or Login in Github and select repository
+4. Choose a directory to clone the repository into.
 
-2. **Create a New Repository:**
-    (From Local to Remote )
-   - Initialize a new Git repository by clicking on the Source Control icon and then "Initialize Repository".
-   - Login in Github
-   - Rename (optional)(default: same name as the folder)
-     - When Name already exist indicated what you can do is:
-       *Rename and continue* or *Clone the repo somewhere in different directory and overwrite the code with your new code*
-   - Publish in Public or Private
-       *Public*: Can be viewed by anybody
-       *Private*: Only you can view
+#### Create a New Repository
+From Local(Your PC) to Remote(Online)
+1. Initialize a new Git repository by clicking on the Source Control icon and then "Initialize Repository".
+2. Login in Github
+3. Rename (optional)(default: same name as the folder)
+4. When Name already exist indicated what you can do is:
+  *Rename and continue* or *Clone the repo somewhere in different directory and overwrite the code with your new code*
+5. Publish in Public or Private
+  *Public*: Can be viewed by anybody
+  *Private*: Only you can view
+6. Go to your github
 
 ### GitHub Issues
 

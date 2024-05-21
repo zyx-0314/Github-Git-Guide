@@ -37,6 +37,9 @@
         <li>
           <a href="#git-are-not-yet-installed">Git are not yet Installed</a>
         </li>
+        <li>
+          <a href="#working-with-other-git">Working with other git</a>
+        </li>
       </ol>
     </li>
   </ol>
@@ -48,6 +51,9 @@
 Live server might not work in some instances and as follows are enountered, reported and solution has been found.
 
 ### Working in Workspace or Github
+Reason: 
+- Could be using `Remote Explorer` to access the github repository
+
 Solution:
 1. Open New Window (File > New Window or 'ctrl + shift + n')
 2. Then [Clone](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/settingup-git-windows.md#github-repositories)
@@ -58,14 +64,21 @@ Solution:
 Some Instances the clone repository button may not appear.
 
 ### Occupied Work Directory
-This happen when you open or working with different project, working with same project but no relationship. What buttons that might appear are "Initialize Git" or "Publish Git".
+This happen when you open or working with different project, working with same project but no relationship. What button/s that might appear are "Initialize Git" or "Publish Git".
 
 1. Open New Window (File > New Window or 'ctrl + shift + n')
 2. Then try to check again
 
 ### Git are not yet Installed
-This happen when git is not yet installed. What buttons that might appear are "Download Git".
+This happen when git is not yet installed. What button that might appear are "Download Git".
+
 1. Follow the ["Installation" Section](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/settingup-git-windows.md#installation)
+
+### Working with other git
+This happen when you are working with different project and it has git. What button that might appear are "Commit", "Commit & Push", "Sync" or "Push".
+
+1. Open New Window (File > New Window or 'ctrl + shift + n')
+2. Then try to check again
 
 ## Missing Update Code from Othe Devices
 There is a lot of reason why it might occur.
