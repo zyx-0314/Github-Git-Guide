@@ -43,9 +43,6 @@
         <li>
           <a href="#github-pull-requests">GitHub Pull Requests</a>
         </li>
-        <li>
-          <a href="#what-if">What if</a>
-        </li>
       </ol>
     </li>
   </ol>
@@ -101,8 +98,8 @@
 1. **Clone a Repository in VS Code:**
     (From Remote to Local)
    - Open VS Code and click on the Source Control icon in the Activity Bar.
-   - Click on `Clone Repository`.
-       - What if no `Clone Repository`? Proceed to "What if Section" from "Table of Contents".
+   - Click on "Clone Repository".
+          - What if no `Clone Repository`? Go [Here](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/problems.md#git-are-not-yet-installed).
    - Enter the repository URL or Login in Github and select repository
    - Choose a directory to clone the repository into.
 
@@ -140,13 +137,5 @@
    - Use the GitHub Pull Requests Side Icon, in the Pull Request tab view in VS Code to create, review, and manage pull requests directly from your editor.
 
 ---
-
-### What if
-- What if no `Clone Repository`, instead "Download Git"?
-  > Follow the "Instalation" Section
-
-- What if no `Clone Repository`, instead "Initialize Git"?
-  > Open New Window (File > New Window or 'ctrl + shift + n'
-  > Then try to check again
 
 You have now successfully installed Git, configured it, integrated it with VS Code, and learned how to manage GitHub repositories, issues, and pull requests. For further assistance, refer to the official documentation or community forums.
