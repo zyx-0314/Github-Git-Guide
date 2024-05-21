@@ -66,3 +66,14 @@ This happen when you open or working with different project, working with same p
 ### Git are not yet Installed
 This happen when git is not yet installed. What buttons that might appear are "Download Git".
 1. Follow the ["Installation" Section](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/settingup-git-windows.md#installation)
+
+## Missing Update Code from Othe Devices
+There is a lot of reason why it might occur.
+
+### Forget to Save, Commit and Push
+If you forget to save and commit in the device where you modify code it will stay there.
+And last part is the push, the button that has name of sync, it will not sync with your remote repository
+
+### Didn't Pull
+Pull is a process where you sync your current pc on the update made on repo from other devices.
+Pull can be triggered by going to 'Source Control' then a 'Sync Button' is there present.
