@@ -86,6 +86,7 @@ The Git Guides section is organized into a collection of markdown files within t
   - [Deploying Simple Website](https://scribehow.com/shared/Deploy_a_website_using_GitHub_Pages__UyFSCsflSte7l0IhcvFFdg?referrer=workspace)
   - [Using Template Repository for Projects](https://scribehow.com/shared/Create_Repository_Based_on_Template_on_GitHub__uqrFu1o3T3iETD9bBMGFlQ?referrer=workspace)
 - Problems in [Github and VS Code](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/problems.md)
+- Best Practices in Git Commit Messages [Commits](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/commit.md)
 
 *(Still in works)
 
