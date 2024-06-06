@@ -17,9 +17,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <!-- <li>
-      <a href="#working-in-workspace-or-github">When there is [Github] or (Workspace) in your VS Code</a>
-    </li> -->
     <li>
       <a href="#live-server-not-working">Live Server is not working</a>
       <ol>
@@ -59,6 +56,8 @@ Solution:
 2. Then [Clone](https://github.com/zyx-0314/Github-Git-Guide/blob/main/git/settingup-git-windows.md#github-repositories)
 
 ---
+
+<br />
 
 ## No Clone Repository Button
 Some Instances the clone repository button may not appear.
