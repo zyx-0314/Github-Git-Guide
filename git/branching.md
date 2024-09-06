@@ -103,6 +103,19 @@ As a developer since 2008, I’ve witnessed the evolution of version control sys
 - **Purpose:** For urgent fixes that need to go directly into production.
 - **Merging:** Merge into both `main` and `develop` once applied.
 
+### Experiment Branches
+
+- **Naming Convention:** `experiment/<experiment-name>`
+- **Created from:** `develop`
+- **Purpose:** For conducting experiments or prototyping new features without affecting the main development flow.
+- **Merging:** Merge back into `develop` if the experiment proves successful or discard if not.
+
+### Testing Branches
+- **Naming Convention:** `test/<test-name>`
+- **Created from:** `develop`
+- **Purpose:** For isolating and testing specific changes or bug fixes.
+- **Merging:** Merge back into `develop` once testing is complete.
+
 ---
 
 ## Branch Workflow
@@ -133,6 +146,21 @@ As a developer since 2008, I’ve witnessed the evolution of version control sys
 2. Apply the fix, commit changes, and push the branch.
 3. Open a pull request to merge the hotfix branch into `main`.
 4. Merge changes into `develop` to include the fix in ongoing development.
+
+### Experimentation
+
+1. Create a branch from `develop` using `experiment/<experiment-name>`.
+2. Conduct experiments or prototype new features, commit changes, and push the branch.
+3. Evaluate the results of the experiment.
+4. If the experiment is successful, merge the branch back into `develop`. Otherwise, discard the branch.
+
+### Testing
+
+1. Create a branch from `develop` using `test/<test-name>`.
+2. Isolate and test specific changes or bug fixes, commit changes, and push the branch.
+3. Verify the correctness of the changes or fixes.
+4. If issues are encountered during testing, create a GitHub issue to track and address them.
+5. Merge the branch back into `develop` once testing is complete.
 
 ---
 
